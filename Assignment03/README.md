@@ -19,7 +19,7 @@ Two CNN classifiers are implemented: one custom-built from scratch, and another 
 Results and visualizations are discussed and compared below, along with limitations and potential improvements.
 
 ## Project Structure
-
+```
 Assignment03/
 │
 ├── src/
@@ -40,7 +40,7 @@ Assignment03/
 ├── setup.sh
 ├── requirements.txt
 └── README.md
-
+```
 
 ## Installation
 To get started with this project, follow these steps:
